@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 14 15:48:01 2023
-
-@author: Hannah
+Date: Feb 26th 2023
+@author: Juan Pablo Brasdefer [225936] (juanbrasdefer) Fabian Pawelczyk [226921] (fpawelczyk)
 """
 
 from cq import CircularQueue
